@@ -147,7 +147,7 @@ inventory-invoice-analytics/
 │   └── predict_flag_invoice.pkl
 │
 ├── notebooks/
-│   ├── Invoice Flagging.pkl
+│   ├── Invoice Flagging.ipynb
 │   └── Predict Freight Cost.ipynb
 │
 ├── app.py
